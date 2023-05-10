@@ -85,7 +85,7 @@
 	<section class="section-slide">
 		<div class="wrap-slick1">
 			<div class="slick1">
-				<div class="item-slick1" style="background-image: url(images/exam5.webp);">
+				<div class="item-slick1" style="background-image:linear-gradient(rgba(0, 0, 0), rgba(0, 0, 0, .3)), url(images/exam5.webp);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
@@ -109,7 +109,7 @@
 					</div>
 				</div>
 
-				<div class="item-slick1" style="background-image: url(images/exam1.webp);">
+				<div class="item-slick1" style="background-image:linear-gradient(rgba(0, 0, 0), rgba(0, 0, 0, .3)), url(images/exam1.webp);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div class="layer-slick1 animated visible-false" data-appear="rollIn" data-delay="0">
@@ -120,7 +120,7 @@
 								
 							<div class="layer-slick1 animated visible-false" data-appear="lightSpeedIn" data-delay="800">
 								<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1 text-white">
-									e-examination
+									e-Result
 								</h2>
 							</div>
 								
@@ -133,7 +133,7 @@
 					</div>
 				</div>
 
-				<div class="item-slick1" style="background-image: url(images/exam2.webp);">
+				<div class="item-slick1" style="background-image:linear-gradient(rgba(0, 0, 0), rgba(0, 0, 0, .3)), url(images/exam2.webp);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div class="layer-slick1 animated visible-false" data-appear="rotateInDownLeft" data-delay="0">
@@ -144,7 +144,7 @@
 								
 							<div class="layer-slick1 animated visible-false" data-appear="rotateInUpRight" data-delay="800">
 								<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1 text-white">
-									e-examination
+									e-Application
 								</h2>
 							</div>
 								
@@ -182,7 +182,10 @@
                                 <input type="password" name="password" maxlength="15" placeholder="Password" class="form-control" required/>
                                 </div>
                                 <div class="form-group" align="center">
-                                <input type="submit" name="login" value="Login" class="btn btn-primary" />
+                                <!-- <input type="submit" name="login" value="Login" class="btn btn-primary" /> -->
+                                <button type="submit" name="login" class="btn btn-primary">
+                                    Login <i class="icofont-login"></i>
+                                </button>
                                 </div>
                             </form>
                         </div>
@@ -216,7 +219,10 @@
                                 <input type="password" name="password" maxlength="15" placeholder="Password" class="form-control" required/>
                                 </div>
                                 <div class="form-group" align="center">
-                                <input type="submit" name="login2" value="Login" class="btn btn-primary" />
+                                <!-- <input type="submit" name="login2" value="Login" class="btn btn-primary" /> -->
+                                <button type="submit" name="login2" class="btn btn-primary">
+                                    Login <i class="icofont-login"></i>
+                                </button>
                                 </div>
                             </form>
                         </div><div class="col-md-3"></div>
@@ -264,8 +270,8 @@
 
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="submit" class="btn btn-primary">Log in</button>
+                <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                <button type="submit" class="btn btn-primary">Log in <i class="icofont-login"></i> </button>
             </fieldset>
         </form>
             </div>
@@ -367,7 +373,10 @@
             <div class="form-group">
             <label class="col-md-3 control-label" for=""></label>
             <div class=""> 
-                <input  type="submit" class="btn btn-primary" value="sign up"  />
+                <!-- <input  type="submit" class="btn btn-primary" value="sign up"  /> -->
+                <button type="submit" class="btn btn-primary">
+                    Signup <i class="icofont-login"></i>
+                </button>
             </div>
             </div>
             

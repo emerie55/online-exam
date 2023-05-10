@@ -21,7 +21,8 @@
 				</div>
 			</div>
 
-			<div class="wrap-menu-desktop" style="background:#222; opacity: 0.7;">
+			<!-- <div class="wrap-menu-desktop" style="background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);"> -->
+			<div class="wrap-menu-desktop">
 				<nav class="limiter-menu-desktop container">
 					
 					<!-- Logo desktop -->		
@@ -62,8 +63,8 @@
 							<i class="zmdi zmdi-search"></i>
 						</div>
 
-						<div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11  js-show-cart" style="font-weight:bold; color: #f63;">
-							<i class="icofont-book"></i>
+						<div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11  js-show-cart" style=" color: #f63;">
+							<i class="icofont-book"></i> <span>note</span> 
 						</div>
 
 						
@@ -163,10 +164,10 @@
                 Online Examination System is a technology-driven way to simplify examination activities like defining exam patterns with question banks, defining exam timers, objective/ subjective question sections, and conducting exams using a computer or mobile devices in a paperless manner.
                 </p>
                 <p>
-                 Candidates can appear for the exam using any desktop, laptop, or mobile device with a browser. Exam results can be generated instantly for the objective type of questions.
+                 Candidates can take the exam using any desktop, laptop, or mobile device with a browser. Exam results can be generated instantly for the objective type of questions.
                 </p>
 				<p class="" style="font-size:; width:100%; color:#f63; text-align:justify; font-weight:bold;">
-				Note: when you click on the <span style="color:;">"START"</span> button, your time automatically starts counting, and when it is time you will be loged out of the system automatically and your form submitted, with or without finishing. <span style="color:;">Good Luck <i class="icofont-thumbs-up h2"></i></span>.
+				Note: when you click on the <span style="color:;">"START"</span> button, your time automatically starts counting, and when it is time you will be logged out of the system automatically and your form submitted, with or without finishing. <span style="color:;">Good Luck <i class="icofont-thumbs-up h2"></i></span>.
 				</p>
                 <!-- <p></p> -->
 			</div>
