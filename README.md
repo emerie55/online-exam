@@ -1,5 +1,5 @@
 # online-exam
-An Online-Exam system that makes and grades its user real time, with a timer function
+An Online-Exam system that marks and grades its user real time, with a timer function
 
 ## how to install
 1. install a local server (XAMPP or WAMPP) on your system
